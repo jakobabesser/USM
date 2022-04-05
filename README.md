@@ -2,20 +2,15 @@
 
 ## Description 
 
-This dataset includes **24,000** **5-seconds-long** polyphonic stereo soundscapes (total of **XXX h**) composed of sounds taken from the FSD50k dataset:
+This dataset includes **24,000** **5-seconds-long** polyphonic stereo soundscapes composed of sounds taken from the FSD50k dataset:
 
-- Eduardo Fonseca, Xavier Favory, Jordi Pons, Frederic Font, Xavier Serra. [FSD50K: an Open Dataset of Human-Labeled Sound Events](https://arxiv.org/abs/2010.00475), arXiv:2010.00475, 2020.
-  - :floppy_disk: [Dataset description & download](https://zenodo.org/record/4060432)
+- Eduardo Fonseca, Xavier Favory, Jordi Pons, Frederic Font, Xavier Serra. [FSD50K: an Open Dataset of Human-Labeled Sound Events](https://arxiv.org/abs/2010.00475), arXiv:2010.00475, 2020, :floppy_disk: [Dataset description & download](https://zenodo.org/record/4060432)
 
 FSD50k samples were selected to allow for commercial usage (see [licence file](LICENCE.md))!
 
 ## USM Dataset Download
 
-The USM dataset can be downloaded from
-  - :floppy_disk: [XXX](https://zenodo.org/record/xxx)
-  - **Total size XXX GB**
-
-
+:floppy_disk: The USM dataset can be downloaded from [XXX](https://zenodo.org/record/xxx).
 
 ## Urban Sound Application Scenarios
 
@@ -84,8 +79,7 @@ The development set is further divided into a **training set** (20,000 soundscap
 
 A detailed description of the dataset and it's creation process is given in 
 
-- Jakob Abeßer: *Classifying Sounds in Polyphonic Urban Sound Scenes*, Proceedings of the 152nd AES Convention (2022).
-  - [Paper (PDF)](./paper/Abesser_2022_UrbanSoundsPreprint_AES.pdf)
+- Jakob Abeßer: *Classifying Sounds in Polyphonic Urban Sound Scenes*, Proceedings of the 152nd AES Convention (2022), [Paper (PDF)](./paper/Abesser_2022_UrbanSoundsPreprint_AES.pdf)
     
 ## Acknowledgement
 
