@@ -10,7 +10,7 @@ FSD50k samples were selected to allow for commercial usage (see [licence file](L
 
 ## USM Dataset Download
 
-:floppy_disk: The USM dataset can be downloaded from [XXX](https://zenodo.org/record/xxx).
+:floppy_disk: The USM dataset can be downloaded from [https://zenodo.org/record/6413788](https://zenodo.org/record/6413788).
 
 ## Urban Sound Application Scenarios
 
@@ -79,7 +79,7 @@ The development set is further divided into a **training set** (20,000 soundscap
 
 A detailed description of the dataset and it's creation process is given in 
 
-- Jakob Abeßer: *Classifying Sounds in Polyphonic Urban Sound Scenes*, Proceedings of the 152nd AES Convention (2022), [Paper (PDF)](./paper/Abesser_2022_UrbanSoundsPreprint_AES.pdf)
+- Jakob Abeßer: *Classifying Sounds in Polyphonic Urban Sound Scenes*, Proceedings of the 152nd AES Convention (2022), [Paper pre-print (PDF)](./paper/Abesser_2022_UrbanSoundsPreprint_AES.pdf)
     
 ## Acknowledgement
 
