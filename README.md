@@ -1,5 +1,9 @@
 # USM Dataset - A Dataset for Polyphonic Sound Event Tagging in Urban Sound Monitoring Scenarios
 
+## Reference
+
+- Jakob Abeßer: *Classifying Sounds in Polyphonic Urban Sound Scenes*, Proceedings of the 152nd AES Convention (2022), [Paper pre-print (PDF)](./paper/Abesser_2022_UrbanSoundsPreprint_AES.pdf)
+ 
 ## Description 
 
 This dataset includes **24,000** **5-seconds-long** polyphonic stereo soundscapes composed of sounds taken from the FSD50k dataset:
@@ -7,6 +11,8 @@ This dataset includes **24,000** **5-seconds-long** polyphonic stereo soundscape
 - Eduardo Fonseca, Xavier Favory, Jordi Pons, Frederic Font, Xavier Serra. [FSD50K: an Open Dataset of Human-Labeled Sound Events](https://arxiv.org/abs/2010.00475), arXiv:2010.00475, 2020, :floppy_disk: [Dataset description & download](https://zenodo.org/record/4060432)
 
 FSD50k samples were selected to allow for commercial usage (see [licence file](LICENCE.md))!
+
+The process of mixing the polyphonic soundscapes is detailed in the AES paper (see "Reference").
 
 ## USM Dataset Download
 
@@ -75,12 +81,7 @@ The development set is further divided into a **training set** (20,000 soundscap
     - _stereo_coeff_ (stereo placement coefficient)
     - _usm_id_ (soundscape ID within the USM dataset, each sample is mixed to)  
     
-## Reference
-
-A detailed description of the dataset and it's creation process is given in 
-
-- Jakob Abeßer: *Classifying Sounds in Polyphonic Urban Sound Scenes*, Proceedings of the 152nd AES Convention (2022), [Paper pre-print (PDF)](./paper/Abesser_2022_UrbanSoundsPreprint_AES.pdf)
-    
+   
 ## Acknowledgement
 
 This work has been supported by the German Research Foundation (AB 675/2-2). 
