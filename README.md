@@ -3,6 +3,10 @@
 ## Reference
 
 - Jakob Abeßer: *Classifying Sounds in Polyphonic Urban Sound Scenes*, Proceedings of the 152nd AES Convention (2022), [Paper pre-print (PDF)](./paper/Abesser_2022_UrbanSoundsPreprint_AES.pdf)
+
+## Demo
+
+You can find a 10 minute long demo video with mel spectrogram visualizations of both mixtures and the corresponding stems at [https://www.youtube.com/watch?v=pVKB2xeBOJA](https://www.youtube.com/watch?v=pVKB2xeBOJA).
  
 ## Description 
 
