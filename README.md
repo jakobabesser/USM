@@ -1,4 +1,4 @@
-# USM Dataset - A Dataset for Polyphonic Sound Event Tagging in Urban Sound Monitoring Scenarios
+# Urban Sound Monitoring (USM) Dataset - A Dataset for Polyphonic Sound Event Tagging in Urban Sound Monitoring Scenarios
 
 ## Reference
 
